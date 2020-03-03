@@ -1,6 +1,6 @@
 # vault-couchbase-database-plugin
 
-Couchbase has no supported plugins for the Vault database secrets engine. This is a custom Vault plugin which generates database credentials dynamically based on configured roles for the Couchbase.
+Couchbase has no supported plugins for the Vault database secrets engine. This is a custom Vault plugin which is used for generating database credentials dynamically based on configured roles for the Couchbase.
 
 ## **Usage:**
 
